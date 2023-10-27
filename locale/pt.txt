@@ -8,9 +8,10 @@ LinkBehaviour_25538A82_3521_BD80_41C4_D3A29498F842.source = http://www.loremipsu
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 LinkBehaviour_644F3BD8_72E4_B748_41CC_00AC174297D7.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_649BAC18_72E7_90C8_41C6_25AA3D8E8E6B.source = https://www.instagram.com/msolutiondigital/
 LinkBehaviour_64EB65CA_72E4_B348_41C5_E7D123793F17.source = https://www.instagram.com/msolutiondigital/
 LinkBehaviour_6774747D_72E5_9148_41D2_E32C5714073C.source = https://www.instagram.com/msolutiondigital/
-LinkBehaviour_649BAC18_72E7_90C8_41C6_25AA3D8E8E6B.source = https://www.instagram.com/msolutiondigital/
+LinkBehaviour_64492176_722C_B358_41D6_CC4C7DEEF489.source = https://www.instagram.com/msolutiondigital/
 LinkBehaviour_64F8E2D9_72EC_F148_41C3_5E3112CB3CC4.source = https://www.instagram.com/msolutiondigital/
 LinkBehaviour_64AA3302_72E3_B0B9_41D9_29C275A2478A.source = https://www.instagram.com/msolutiondigital/
 LinkBehaviour_65F18B28_72ED_90C8_41D3_17120B6FF21A.source = https://www.instagram.com/msolutiondigital/
@@ -52,6 +53,7 @@ Image_25A40C34_37E3_F480_41BD_1B78B8CB6BF6.url = skin/Image_25A40C34_37E3_F480_4
 Image_6469D2E9_72E4_B148_41C6_AA5B36053C9F.url = skin/Image_6469D2E9_72E4_B148_41C6_AA5B36053C9F_pt.png
 Image_648E1985_72E7_73B8_41D9_D034D529449A.url = skin/Image_648E1985_72E7_73B8_41D9_D034D529449A_pt.png
 Image_64F45E06_72EF_B0B9_41C8_6110D79F7274.url = skin/Image_64F45E06_72EF_B0B9_41C8_6110D79F7274_pt.png
+Image_678F6063_722C_917F_41C0_07D74A954C1A.url = skin/Image_678F6063_722C_917F_41C0_07D74A954C1A_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_pt.png
 
